@@ -1,8 +1,10 @@
 # Welcome to my page!
 
 I am currently a computer science student at CSULB.
-Languages I know:
+<details>
+<summary>Languages I know:</summary>
 - Python
 - HTML
 - CSS
 - C++
+</details>
